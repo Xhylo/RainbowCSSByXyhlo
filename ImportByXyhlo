@@ -1,0 +1,113 @@
+.subtext-3CDbHg,
+.customStatus-3tC2ig,
+.hovered-d5PMVU,
+.title-eS5yk3 {
+    background-image: linear-gradient(to left,rgb(51, 255, 0), rgb(255, 230, 0), red, rgb(234, 0, 255), rgb(0, 140, 255), rgb(51, 255, 0));
+    animation: gradient-border 4s linear infinite;
+    background-size: 400% 100%;
+    color: transparent !important;
+    -webkit-background-clip: text;
+    position: relative;
+    z-index: 1;
+}
+@keyframes gradient-border {
+from {
+  background-position: 0 0;
+}
+to {
+  background-position: 130% 0;
+}
+}
+
+.username-1A8OIy{
+animation: rainbow 5s linear 0s infinite normal
+}
+@keyframes rainbow {
+0%    {color: #ff0000}
+12%   {color: #ffbf00}
+25%   {color: #80ff00}
+37%   {color: #00ff40}
+50%   {color: #00ffff}
+62%   {color: #0040ff}
+75%   {color: #8000ff}
+87%   {color: #eb34bd}
+100%  {color: #ff0000}
+}
+
+.username-1A8OIy{
+  background-image: linear-gradient(to left,rgb(51, 255, 0), rgb(255, 230, 0), red, rgb(234, 0, 255), rgb(0, 140, 255), rgb(51, 255, 0));
+  animation: gradient-border 4s linear infinite;
+  background-size: 400% 100%;
+  color: transparent !important;
+  -webkit-background-clip: text;
+  position: relative;
+  z-index: 1;
+}
+@keyframes gradient-border {
+from {
+background-position: 0 0;
+}
+to {
+background-position: 130% 0;
+}
+}
+
+/rainbow wave text/
+.markup-2BOw-j {
+    background-image: linear-gradient(to left,rgb(51, 255, 0), rgb(255, 230, 0), red, rgb(234, 0, 255), rgb(0, 140, 255), rgb(51, 255, 0));
+    animation: gradient-border 4s linear infinite;
+    background-size: 400% 100%;
+    color: transparent !important;
+    -webkit-background-clip: text;
+    position: relative;
+    z-index: 1;
+}
+@keyframes gradient-border {
+from {
+  background-position: 0 0;
+}
+to {
+  background-position: 130% 0;
+}
+}
+
+.customStatusText-1vtUsN {
+      background-image: linear-gradient(to left,rgb(51, 255, 0), rgb(255, 230, 0), red, rgb(234, 0, 255), rgb(0, 140, 255), rgb(51, 255, 0));
+    animation: gradient-border 4s linear infinite;
+    background-size: 400% 100%;
+    color: transparent !important;
+    -webkit-background-clip: text;
+    position: relative;
+    z-index: 1;
+}
+@keyframes gradient-border {
+from {
+  background-position: 0 0;
+}
+to {
+  background-position: 130% 0;
+}
+}
+
+.username-2b1r56,
+.discrimBase-24vY8o,
+.nickname-3M3Jfa,
+.base-1x0h_U, 
+.size20-17Iy80,
+.headerTagDiscriminatorNoNickname-D-AYUN {
+      background-image: linear-gradient(to left,rgb(51, 255, 0), rgb(255, 230, 0), red, rgb(234, 0, 255), rgb(0, 140, 255), rgb(51, 255, 0));
+    animation: gradient-border 4s linear infinite;
+    background-size: 400% 100%;
+    color: transparent !important;
+    -webkit-background-clip: text;
+    position: relative;
+    z-index: 1;
+}
+@keyframes gradient-border {
+from {
+  background-position: 0 0;
+}
+to {
+  background-position: 130% 0;
+}
+}
